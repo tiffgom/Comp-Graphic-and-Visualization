@@ -27,7 +27,7 @@
 #### 3. How can computer science help me in reaching my goals? ####
   * How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
   
-   In this course, I found I spent a lot of time analyzing pre-existing codes and solutions found in the provided tutorials. I enjoyed experimenting and modifying the code but what I believe will be invaluable in my future educational pathway is the ability I gained in studying the code and customizing and applying the logic to fit the functionality I needed.
+    In this course, I found I spent a lot of time analyzing pre-existing codes and solutions found in the provided tutorials. I enjoyed experimenting and modifying the code but what I believe will be invaluable in my future educational pathway is the ability I gained in studying the code and customizing and applying the logic to fit the functionality I needed.
   * How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
   
-   I work as a content developer and have prior basic HTML logic and am proficient in programs like Adobe Photoshop, but learning OpenGL completely broadened any understanding I believe I had had in terms of computational graphics and how recurrent OpenGL is in various industries. I am not sure how it may be applied in my future professional pathway, but I do hope to further explore OpenGL and other libraries.
+    I work as a content developer and have prior basic HTML logic and am proficient in programs like Adobe Photoshop, but learning OpenGL completely broadened any understanding I believe I had had in terms of computational graphics and how recurrent OpenGL is in various industries. I am not sure how it may be applied in my future professional pathway, but I do hope to further explore OpenGL and other libraries.
