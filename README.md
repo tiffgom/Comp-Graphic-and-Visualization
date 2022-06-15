@@ -1,5 +1,7 @@
 # Comp-Graphic-and-Visualization
 
+![alt text](https://github.com/tiffgom/Comp-Graphic-and-Visualization/blob/main/resources/3D%20scene%20screenshot.jpg?raw=true)
+
 #### Designing Software ####
   * What new design skills has your work on the project helped you to craft?
   
@@ -24,7 +26,7 @@
   
     At the beginning of the project, my focus was strictly on being able to render and physically see an object that at minimum looked similar to that of my image. Through each milestone, I began to focus more on how to structure my objects (for example I created structures to store my cube and plane data), how to organize functions, and basically how to develop my program in a way that as I introduced new elements weekly, I could go back and adjust an object's positioning, color, or texture without altering large parts of my code. 
 
-#### 3. Goals with Computer Science ####
+####  Goals with Computer Science ####
   * How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
   
     In this course, I found I spent a lot of time analyzing pre-existing codes and solutions found in the provided tutorials. I enjoyed experimenting and modifying the code but what I believe will be invaluable in my future educational pathway is the ability I gained in studying the code and customizing and applying the logic to fit the functionality I needed.
