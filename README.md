@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/tiffgom/Comp-Graphic-and-Visualization/blob/main/resources/3D%20scene%20screenshot.jpg?raw=true)
 
-#### Designing Software ####
+## Designing Software ##
   * What new design skills has your work on the project helped you to craft?
   
     Working with and learning Open GL has helped me craft the skill of learning to prototype. This is the first project I have worked on where the visual representation of the program is one of the main components. I found myself, on a weekly basis before each assignment or milestone, sketching the objects in accordance with the requirements to render. Whether it would be a prime shape, a camera, or a light source, I relied heavily on graphing the objects on paper. As I worked on my scene specifically, this eased the process of layering my scene and introducing new objects as I progressed.
@@ -15,7 +15,7 @@
 
     
 
-#### Developing Programs #### 
+## Developing Programs ## 
   * What new development strategies did you use while working on your 3D scene?
   
     Modularization was a major development strategy I employed while working on my 3D scene. With over a thousand lines of code in my main source code, I could have modularized even more so. This was a project where I tested often and failed just as often, so it was really important I compartmentalized my code so as to not break my program. The way the course is structured really helped me sharpen this skill. Instead of rendering a new object in my scene every week, I focused on a single object and developed the skills and understanding that go into bringing that object to life, such as a camera in relation to the object, color, texture, positioning, drawing of shapes, user input (using different tools), and such. 
@@ -26,7 +26,7 @@
   
     At the beginning of the project, my focus was strictly on being able to render and physically see an object that at minimum looked similar to that of my image. Through each milestone, I began to focus more on how to structure my objects (for example I created structures to store my cube and plane data), how to organize functions, and basically how to develop my program in a way that as I introduced new elements weekly, I could go back and adjust an object's positioning, color, or texture without altering large parts of my code. 
 
-####  Goals with Computer Science ####
+## Goals with Computer Science ##
   * How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
   
     In this course, I found I spent a lot of time analyzing pre-existing codes and solutions found in the provided tutorials. I enjoyed experimenting and modifying the code but what I believe will be invaluable in my future educational pathway is the ability I gained in studying the code and customizing and applying the logic to fit the functionality I needed.
